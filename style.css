@@ -1,0 +1,139 @@
+* { 
+  margin:0;
+  padding:0;
+}
+a:link, a:visited, a:hover, a:active {
+  color:rgb(2, 2, 2);
+  font-size:16px;
+}
+.navbar {
+  background-color: #333;
+}
+
+.navbar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  
+}
+
+.navbar li {
+  margin-right: 70px;
+}
+
+.navbar li:last-child {
+  margin-right: 0;
+}
+
+.navbar a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.navbar a:hover {
+  background-color: #000000;
+}
+.imagen1{
+  float: left;
+  margin-right: 50px;
+}
+body {
+  background:#000000;
+  font-family:verdana;
+}
+
+.bodynet {
+  background-image: url( https://www.lavanguardia.com/andro4all/hero/2021/05/El-logo-de-Netflix.jpg?width=768&aspect_ratio=16:9&format=nowebp);
+  
+
+}
+
+.bodyacc {
+  background-image: url( https://i.pinimg.com/736x/4d/50/fe/4d50fe43c75494f55b16ecc12c8b9754.jpg);
+  
+
+}
+.bodyficc {
+  background-image: url( https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8zx7-wMN5jxCm0j3zJfmZibctzVcsqazEY_F_KnskA84fQPuheG4jOMHysdR4xgRr_5GTx6MKyPxStGJachqSSYnKn3i9W6yObh72HZlkOaGFGaM8a_CBC9Tnl5NBbm1t0VJq/s680/De+la+ciencia+a+la+Ficci%25C3%25B3n+03.jpeg);
+  
+
+}
+.bodydis {
+  background-image: url( https://allears.net/wp-content/uploads/2020/01/disney-castle-movie-vhs-700x410.jpg);
+  
+
+}
+.bodyhbo {
+  background-image: url( https://www.comingsoon.net/wp-content/uploads/sites/3/2024/03/collage-268-1.jpg);
+  
+
+}
+.bodymis {
+  background-image: url( https://i.ebayimg.com/thumbs/images/g/PjQAAOSwnspj97k7/s-l640.jpg);
+  
+
+}
+.bodypv {
+  background-image: url( https://deadline.com/wp-content/uploads/2021/08/Amazon-Prime-Video-Logo.jpg?w=681&h=383&crop=1);
+  
+
+}
+.bodyrom {
+  background-image: url( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTcxzynQr-qxGL4hB5UvhzGRzpeTbuU2LZT6RXqeS6g&s);
+  
+
+}
+.bodyseri {
+  background-image: url( https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/01/The-Best-Movie-Franchises-To-Binge-Watch.jpg);
+  
+
+}
+.bodyterr {
+  background-image: url( https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCac1nPQxVOwvj35cPQBuIhpvvTXcfpX97iWtipWo2Cw&s);
+  
+
+}
+
+h1 {
+  color:rgb(0, 0, 0);
+  font-size:24px;
+}
+p {
+  font-size:16px;
+}
+ul {
+  list-style-type:none;
+}
+#cabecera {
+  color:#ff9;
+  background-color:#000;
+  padding:10px;
+}
+#contenedor {
+  margin:0 auto;
+  width:800px;
+}
+#contenido {
+  background-color:#ddd;
+  float:left;
+  height:500px;
+  padding:10px;
+  width:560px;
+}
+#menu {
+  background-color:#999;
+  float:left;
+  height:480px;
+  padding:20px;
+  width:180px;
+}
+#pie { 
+  background-color:#8a7f7f;
+  clear:both;
+  color:rgb(231, 4, 4);
+  padding:10px;
+  text-align:center;
+}
